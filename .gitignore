@@ -3,3 +3,6 @@ node_modules
 .tmp
 npm-debug.log
 *logs/
+.venv
+__pycache__/
+*.duckdb
